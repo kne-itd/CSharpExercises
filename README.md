@@ -10,7 +10,7 @@ Dette repository indeholder **20 øvelser i C#** med tilhørende **xUnit-tests**
 ## Kom i gang
 
 ```bash
-git clone https://github.com/DIN_BRUGER/CSharpExercises.git
+git clone https://github.com/kne-itd/CSharpExercises.git
 cd CSharpExercises
 dotnet build
 dotnet test
